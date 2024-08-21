@@ -1,0 +1,17 @@
+python==3.11.0
+cvzone
+ultralytics
+hydra-core
+matplotlib
+numpy
+opencv-python
+Pillow
+PyYAML
+requests
+scipy
+torch
+torchvision
+tqdm
+filterpy
+scikit-image
+lap
